@@ -1,5 +1,5 @@
 # Pixelmap
-Hello welcome to PixelMap official repository! Pixelmap is a pixel game, this repository is made to have its code so we can manage it and make everyone see how the code looks like.
+Hello welcome to PixelMap official repository! Pixelmap is a pixel game, this repository is made to have its code so we can manage it and make everyone see how the code looks like. If you would like to try and play our game, this is the link: (not released).
 ## Git
 If someone wants to make a pixelmap clone here's how to do it:
 1. Download our repository: reccomending using git or downloading zip...
