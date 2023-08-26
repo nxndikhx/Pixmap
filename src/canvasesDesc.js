@@ -28,14 +28,14 @@ function getCanvases(t) {
   };
   const canvasDesc = {
     0: t`Our main canvas, a huge map of the world. Place everywhere you like`,
-    1: t`Moon canvas. Safe space for art. No flags or large text (unless part of art) or art larger than 1.5k x 1.5k pixels.`,
+    1: t`Moon canvas, a canvas stylized as the moon.`,
     2: t`Place Voxels on a 3D canvas with others`,
     3: t`Special canvas to spread awareness of SARS-CoV2`,
     5: t`Mirror of PixelZone`,
     6: t`Mirror of PixelCanvas`,
     7: t`Black and White canvas`,
     8: t`A canvas for the most active players from the the previous day. Daily ranking updates at 00:00 UTC.`,
-    9: t`Copy of r/place 2023 canvas. Will be present for a while.`,
+    9: t`Mirror of r/place.`,
   };
   /*
    * no edit below here needed when adding/removing canvas
