@@ -7,6 +7,11 @@ If someone wants to make a pixelmap clone here's how to do it:
 2. Follow pixelplanet instructions (withouth downloading ppf repository): [PPF instructions](https://git.pixelplanet.fun/ppfun/pixelplanet/src/branch/master/README.md)
 
 # Features 
+- Managed repository
+- User can play game only if creates account
+- Cooldown is smaller
+- More canvases
+- Really moderated game
 
 # Credits
 - Thanks to pixelplanet for the code.
