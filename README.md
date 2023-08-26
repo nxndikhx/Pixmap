@@ -12,6 +12,7 @@ If someone wants to make a pixelmap clone here's how to do it:
 - Cooldown is smaller
 - More canvases
 - Really moderated game
+- No clown void
 
 # Credits
 - Thanks to pixelplanet for the code.
