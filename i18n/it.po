@@ -60,7 +60,7 @@ msgstr "Errore :("
 
 #: src/ui/PixelTransferController.js:64
 msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-msgstr "Non c'è stata risposta da pixelplanet. Prova a ricaricare?"
+msgstr "Non c'è stata risposta da pixmap. Prova a ricaricare?"
 
 #: src/ui/PixelTransferController.js:96
 msgid "Invalid Canvas"
@@ -109,7 +109,7 @@ msgstr "Piazza di più :)"
 
 #: src/ui/PixelTransferController.js:122
 msgid "You can not access this canvas yet. You need to place more pixels"
-msgstr "Non puoi ancora accedere a questo canvas. Ti servono più pixel"
+msgstr "Non puoi ancora accedere a questo canvas. Devi piazzare più pixel"
 
 #: src/ui/PixelTransferController.js:125
 msgid "Pixel protected!"
@@ -117,15 +117,15 @@ msgstr "Pixel protetto!"
 
 #: src/ui/PixelTransferController.js:132
 msgid "Please prove that you are human"
-msgstr "Per favore prova che sia umano"
+msgstr "Per favore dimostra che sei umano"
 
 #: src/ui/PixelTransferController.js:136
 msgid "No Proxies Allowed :("
-msgstr "I proxy non sono ammessi, specialmente se sei terrone"
+msgstr "Niente Proxy Ammessi :("
 
 #: src/ui/PixelTransferController.js:137
 msgid "You are using a Proxy."
-msgstr "Stai usando un proxy; asparati."
+msgstr "Stai usando un Proxy."
 
 #: src/ui/PixelTransferController.js:140
 msgid "Not allowed"
@@ -137,16 +137,16 @@ msgstr "Solo i Top10 di ieri possono piazzare qui"
 
 #: src/ui/PixelTransferController.js:144
 msgid "You are weird"
-msgstr "Sei strano, sei mica legio croazia?"
+msgstr "Sei strano"
 
 #: src/ui/PixelTransferController.js:146
 msgid ""
 "Server got confused by your pixels. Are you playing on multiple devices?"
-msgstr "I tuoi pixel hanno confuso il server. Stai piazzando su più device?"
+msgstr "Il Server si è confuso dai tuoi pixels. Stai piazzando su più dispositivi?"
 
 #: src/ui/PixelTransferController.js:149
 msgid "Banned"
-msgstr "Sei stato bannato, non fare il napoletano per favore"
+msgstr "Bannato"
 
 #: src/ui/PixelTransferController.js:153
 msgid "Range Banned"
@@ -158,15 +158,15 @@ msgstr "Il tuo Internet Provider è bannato da questo gioco"
 
 #: src/ui/PixelTransferController.js:157
 msgid "Timeout"
-msgstr "Connessione persa, insulta foggia su discord.io/italy"
+msgstr "Timeout"
 
 #: src/ui/PixelTransferController.js:159
 msgid ""
 "Didn't get an answer from pixelplanet. Maybe try to refresh if problem "
 "persists?"
 msgstr ""
-"Non è giunta una risposta da pixelplanet. Prova a ricaricare se il problema "
-"persiste"
+"Non è giunta una risposta da pixmap. Forse prova a ricaricare se il problema "
+"persiste?"
 
 #: src/ui/PixelTransferController.js:162
 msgid "Weird"
@@ -183,12 +183,12 @@ msgstr "Errire ${ retCode }"
 
 #: src/ui/renderer.js:35
 msgid "Canvas Error"
-msgstr "Errore del canvas"
+msgstr "Errore Canvas"
 
 #: src/ui/renderer.js:36
 msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
 msgstr ""
-"Non è stato possibile renderizzare il canvas 3D, hai WebGL2 disabilitato?"
+"Non si può far render al canvas 3D, hai WebGL2 disabilitato?"
 
 #: src/components/BanInfo.jsx:136 src/store/actions/index.js:7
 msgid "OK"
@@ -209,29 +209,29 @@ msgstr "Errore di connessione ${ code } :("
 
 #: src/store/actions/fetch.js:103 src/store/actions/fetch.js:129
 msgid "Could not connect to server, please try again later :("
-msgstr "Impossibile connettersi al server, per favore attendi e ritenta :("
+msgstr "Impossibile connettersi al server, per favore prova di nuovo dopo :("
 
 #: src/store/actions/fetch.js:151 src/store/actions/fetch.js:170
 #: src/store/actions/fetch.js:189 src/store/actions/fetch.js:208
 #: src/store/actions/fetch.js:227
 msgid "Unknown Error"
-msgstr "Errore sconosciuno, prega"
+msgstr "Errore Sconosciuto"
 
 #: src/store/actions/fetch.js:237
 msgid "Server answered with gibberish :("
-msgstr "Il server ha risposto confusonariamente :("
+msgstr "Il Server ha risposto confusonariamente :("
 
 #: src/store/middleware/notifications.js:33
 msgid "Your next pixels are ready"
 msgstr "I tuoi prossimi pixel sono pronti"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Puoi piazzare di più su pixelplanet.fun :)"
+msgid "You can now place more on pixmap :)"
+msgstr "Puoi ora piazzare di più su pixmap :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
-msgstr "ti ha menzionato"
+msgstr "sei stato menzionato"
 
 #: src/store/middleware/notifications.js:58
 msgid "You have new messages in chat"
@@ -240,7 +240,7 @@ msgstr "Hai nuovi messaggi in chat"
 #: src/components/Converter.jsx:561 src/components/CoordinatesBox.jsx:31
 #: src/components/ModWatchtools.jsx:371
 msgid "Copy to Clipboard"
-msgstr "Copiato nella Clipboard"
+msgstr "Copia nella Clipboard"
 
 #: src/components/OnlineBox.jsx:40
 msgid "Online Users on Canvas"
@@ -248,7 +248,7 @@ msgstr "Utenti online sul canvas"
 
 #: src/components/OnlineBox.jsx:47
 msgid "Total Online Users"
-msgstr "Utenti online in totale"
+msgstr "Utenti Online Totali"
 
 #: src/components/OnlineBox.jsx:55
 msgid "Pixels placed"
@@ -256,24 +256,24 @@ msgstr "Pixel piazzati"
 
 #: src/components/buttons/ChatButton.jsx:88
 msgid "Close Chat"
-msgstr "Chiudi la chat"
+msgstr "Chiudi chat"
 
 #: src/components/buttons/ChatButton.jsx:88
 msgid "Open Chat"
-msgstr "Apri la chat"
+msgstr "Apri chat"
 
 #: src/components/buttons/CanvasSwitchButton.jsx:20
 #: src/components/windows/index.js:19
 msgid "Canvas Selection"
-msgstr "Selezione canvas"
+msgstr "Selezione Canvas"
 
 #: src/components/buttons/ExpandMenuButton.jsx:22
 msgid "Close Menu"
-msgstr "Chiudi il menù"
+msgstr "Chiudi Menù"
 
 #: src/components/buttons/ExpandMenuButton.jsx:22
 msgid "Open Menu"
-msgstr "Apri il menù"
+msgstr "Apri Menù"
 
 #: src/components/HistorySelect.jsx:144
 msgid "Loading"
@@ -281,7 +281,7 @@ msgstr "Caricamento"
 
 #: src/components/HistorySelect.jsx:145
 msgid "Select Date above"
-msgstr "Seleziona la data sopra"
+msgstr "Seleziona la Data sopra"
 
 #: src/components/Admintools.jsx:103 src/components/ModCanvastools.jsx:222
 #: src/components/ModWatchtools.jsx:118 src/components/Window.jsx:157
@@ -312,11 +312,11 @@ msgstr "Massimizza"
 
 #: src/components/Window.jsx:268
 msgid "Resize"
-msgstr "Ridimenziona"
+msgstr "Ridimensiona"
 
 #: src/components/buttons/DownloadButton.jsx:36
 msgid "Make Screenshot"
-msgstr "Fai uno Screenshot"
+msgstr "Fai Screenshot"
 
 #: src/components/buttons/LogInButton.jsx:20 src/components/windows/index.js:15
 msgid "User Area"
@@ -324,15 +324,15 @@ msgstr "Area Utente"
 
 #: src/components/buttons/PalselButton.jsx:30
 msgid "Close Palette"
-msgstr "Chiudi la Palette"
+msgstr "Chiudi Palette"
 
 #: src/components/buttons/PalselButton.jsx:30
 msgid "Open Palette"
-msgstr "Apri la Palette"
+msgstr "Apri Palette"
 
 #: src/components/buttons/GlobeButton.jsx:34
 msgid "Globe View"
-msgstr "Visione globale"
+msgstr "Visione del Globo"
 
 #: src/components/BanInfo.jsx:75 src/components/buttons/HelpButton.jsx:20
 #: src/components/windows/index.js:13
@@ -350,7 +350,7 @@ msgstr "Registrazione"
 
 #: src/components/windows/index.js:17
 msgid "Forgot Password"
-msgstr "Password dimenticata"
+msgstr "Password Dimenticata"
 
 #: src/components/windows/index.js:18
 msgid "Chat"
@@ -362,15 +362,15 @@ msgstr "Archivio Canvas"
 
 #: src/components/GlobalCaptcha.jsx:47
 msgid "You took too long, try again."
-msgstr "Ci hai messo troppo, prova di nuovo"
+msgstr "Ci hai messo troppo, prova di nuovo."
 
 #: src/components/GlobalCaptcha.jsx:50
 msgid "You failed your captcha"
-msgstr "Hai sbagliato il captcha"
+msgstr "Hai fallito il tuo captcha"
 
 #: src/components/GlobalCaptcha.jsx:53
 msgid "No or invalid captcha text"
-msgstr "Nessun captcha text o invalido"
+msgstr "Nessun o invalido captcha text"
 
 #: src/components/GlobalCaptcha.jsx:56
 msgid "No captcha id given"
@@ -378,7 +378,7 @@ msgstr "Nessun captcha id dato"
 
 #: src/components/GlobalCaptcha.jsx:59
 msgid "Unknown Captcha Error"
-msgstr "Errore captcha sconosciuto"
+msgstr "Errore Captcha Sconosciuto"
 
 #: src/components/BanInfo.jsx:80 src/components/Captcha.jsx:77
 #: src/components/ChangeMail.jsx:72 src/components/ChangeName.jsx:58
@@ -431,7 +431,7 @@ msgstr "che è in"
 
 #: src/components/BanInfo.jsx:112
 msgid "Unbanned"
-msgstr "Non più bannato, spero tu abbia chiesto scusa in ginocchio nel mentre"
+msgstr "Non più bannato"
 
 #: src/components/BanInfo.jsx:113
 msgid "Now that you have seen this message, you are no longer banned."
